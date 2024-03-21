@@ -63,7 +63,7 @@ class MyHomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('Salvem as tartarugas'), // ← Example change.
+            Text('Salvem as tartarugas'), // ← Example change...
             SizedBox(height: 10),
             BigCard(pair: pair),
             SizedBox(height: 10),
